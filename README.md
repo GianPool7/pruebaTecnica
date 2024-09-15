@@ -22,7 +22,7 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos instalados en t
 
 ## Funcionalidades
 
-- **Búsqueda de Imágenes**: Busca imágenes de banderas utilizando términos de búsqueda.
+- **Búsqueda de paises**: Busca a paises y filtra por continentes 
 - **Visualización de Imágenes**: Muestra las imágenes de banderas en un formato limpio y responsivo.
 - **Navegación**: Rutas limpias y estructuradas utilizando React Router.
 
