@@ -1,4 +1,4 @@
-import React from "react";
+
 import Navegacion from "./Navegacion";
 
 function paginatwo(){
